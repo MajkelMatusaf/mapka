@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "CITY_NAME": "Helsinki", "ADMIN_NAME": "Uusimaa", "CNTRY_NAME": "Finland", "STATUS": "National and provincial capital", "POP_RANK": 3, "POP_CLASS": "500,000 to 1,000,000", "PORT_ID": 28190 }, "geometry": { "type": "Point", "coordinates": [ 24.976699829101563, 60.196422576904297 ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "Berlin", "ADMIN_NAME": "Berlin", "CNTRY_NAME": "Germany", "STATUS": "National and provincial capital", "POP_RANK": 2, "POP_CLASS": "1,000,000 to 5,000,000", "PORT_ID": 0 }, "geometry": { "type": "Point", "coordinates": [ 13.327572822570801, 52.516273498535156 ] } },
 { "type": "Feature", "properties": { "CITY_NAME": "Dortmund", "ADMIN_NAME": "Nordrhein-Westfalen", "CNTRY_NAME": "Germany", "STATUS": "Other", "POP_RANK": 3, "POP_CLASS": "500,000 to 1,000,000", "PORT_ID": 0 }, "geometry": { "type": "Point", "coordinates": [ 7.466418266296387, 51.513813018798828 ] } },
 { "type": "Feature", "properties": { "CITY_NAME": "Dusseldorf", "ADMIN_NAME": "Nordrhein-Westfalen", "CNTRY_NAME": "Germany", "STATUS": "Provincial capital", "POP_RANK": 3, "POP_CLASS": "500,000 to 1,000,000", "PORT_ID": 0 }, "geometry": { "type": "Point", "coordinates": [ 6.797999858856201, 51.241001129150391 ] } },
 { "type": "Feature", "properties": { "CITY_NAME": "Cologne", "ADMIN_NAME": "Nordrhein-Westfalen", "CNTRY_NAME": "Germany", "STATUS": "Other", "POP_RANK": 3, "POP_CLASS": "500,000 to 1,000,000", "PORT_ID": 0 }, "geometry": { "type": "Point", "coordinates": [ 6.934871673583984, 50.942344665527344 ] } },
